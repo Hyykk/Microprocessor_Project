@@ -6,45 +6,51 @@
 
 Pressure Sensor - PF1
 
-![압력센서 필터링 결과](https://github.com/Hyykk/Microprocessor_Project/assets/114062987/8dbb3dc3-011a-4223-87b4-5485b8021f08)
+![1](https://github.com/Hyykk/Microprocessor_Project/assets/114062987/4a0495e1-979c-442f-8e9b-bef364bd9e07)
 
-![압력센서 필터링 결과(FFT)](https://github.com/Hyykk/Microprocessor_Project/assets/114062987/aec98511-da72-4dd4-bdcd-e18200b34042)
+![2](https://github.com/Hyykk/Microprocessor_Project/assets/114062987/0e76e458-ee56-4eeb-9cf2-5832e12f0cb7)
+
 
 Thermister - PF3
 
-![온도센서 필터링 결과](https://github.com/Hyykk/Microprocessor_Project/assets/114062987/45cefbc9-ed1b-435c-97c7-5f72d48cd939)
+![3](https://github.com/Hyykk/Microprocessor_Project/assets/114062987/545dd814-a821-42fb-9ebc-e312a32ca739)
 
-![온도센서 필터링 결과(FFT)](https://github.com/Hyykk/Microprocessor_Project/assets/114062987/f1e55834-30d1-402e-93eb-1f5a4e4d76b8)
+![4](https://github.com/Hyykk/Microprocessor_Project/assets/114062987/3914c9d6-daf7-4c66-85e3-3640f89a37d0)
+
 
 ### FIR Filter
 
 ADC - PF0
 
-![가변저항 필터링 결과](https://github.com/Hyykk/Microprocessor_Project/assets/114062987/cd53f172-1734-487a-b822-ed120621de31)
+![5](https://github.com/Hyykk/Microprocessor_Project/assets/114062987/355fb3b8-a71c-4c8c-a2be-a286b27ed63a)
 
-![가변저항 필터링 결과(FFT)](https://github.com/Hyykk/Microprocessor_Project/assets/114062987/f5c1739c-2769-4e55-ae72-91ad72b44de5)
+![6](https://github.com/Hyykk/Microprocessor_Project/assets/114062987/d58f5639-2cc1-4bf0-bb8b-cf886c463f0f)
+
 
 ### Kalman Filter
 
 Ultrasonic - Trig PC4, Echo PD3(Timer2)
 
-![초음파센서 필터링 결과](https://github.com/Hyykk/Microprocessor_Project/assets/114062987/c6f9f351-9000-42fa-86bd-e4ae9a2ce20f)
+![7](https://github.com/Hyykk/Microprocessor_Project/assets/114062987/22409e84-9003-46fe-8645-dd452251961c)
 
-![초음파센서 필터링 결과(속도)](https://github.com/Hyykk/Microprocessor_Project/assets/114062987/2fd2ddd2-4913-49ab-86f1-6146375c24ab)
+![8](https://github.com/Hyykk/Microprocessor_Project/assets/114062987/27f9d07d-a22d-455f-82bb-5116fd3039b0)
+
 
 ### MAF Filter
 
 Gas Sensor - PF6
 
-![가스센서 필터링 결과](https://github.com/Hyykk/Microprocessor_Project/assets/114062987/725110e7-def1-4110-ad82-b4eebdb931dd)
+![9](https://github.com/Hyykk/Microprocessor_Project/assets/114062987/d81d6b17-d39b-4d14-9ac4-9497bbd0a0be)
 
-![가스센서 필터링 결과(FFT)](https://github.com/Hyykk/Microprocessor_Project/assets/114062987/f97c5484-22fa-410c-ba27-7c2a898493ed)
+![10](https://github.com/Hyykk/Microprocessor_Project/assets/114062987/318764de-2208-4a4d-b69f-fe992d519542)
+
 
 CDS - PF2
 
-![조도센서 필터링 결과](https://github.com/Hyykk/Microprocessor_Project/assets/114062987/384e55f0-10ac-439c-b3ef-404d06eee04e)
+![11](https://github.com/Hyykk/Microprocessor_Project/assets/114062987/d8ea9006-7030-4ad8-9f21-398be8765583)
 
-![조도센서 필터링 결과(FFT)](https://github.com/Hyykk/Microprocessor_Project/assets/114062987/f0a28193-cc9e-4e17-8c13-39e7b7ef45a0)
+![12](https://github.com/Hyykk/Microprocessor_Project/assets/114062987/50642dbb-2cc2-48b2-a09d-86376c45dbfb)
+
 
 ## Actuator
 
