@@ -1,6 +1,6 @@
-# Microprocessor_Project
+# 🎛️Microprocessor_Project
 
-## Sensor
+## 📈Sensor
 
 ### IIR Filter
 
@@ -52,7 +52,7 @@ CDS - PF2
 ![12](https://github.com/Hyykk/Microprocessor_Project/assets/114062987/50642dbb-2cc2-48b2-a09d-86376c45dbfb)
 
 
-## Actuator
+## ⚙️Actuator
 
 ### DC Motor(L298N) - PB4(Timer 0)
 
@@ -62,6 +62,11 @@ CDS - PF2
 
 ### 3color LED - PE3~5(Timer 3)
 
-## Collaborator
-
-### Soomin Lee(dltnasl)
+## 👪Collaborator
+   <table>
+  <tbody>
+    <tr>
+      <td align="center"><a href="https://github.com/Hyykk"><img src="https://avatars.githubusercontent.com/Hyykk" width="100px;" alt=""/><br /><sub><b> Yoonkyo Hong </b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/dltnasl"><img src="https://avatars.githubusercontent.com/dltnasl" width="100px;" alt=""/><br /><sub><b> Sumin Lee </b></sub></a><br /></td>
+  </tbody>
+</table>
